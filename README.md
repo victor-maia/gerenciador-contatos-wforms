@@ -47,8 +47,6 @@ Econtact/
 └── Econtact.cs                 # Form principal da aplicação.
 ```
 
-## 📸 Screenshots
-
 ![Tela Principal](Econtact/screenshot.png)
 
 ## 📝 Licença

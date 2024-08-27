@@ -49,8 +49,7 @@ Econtact/
 
 ## 📸 Screenshots
 
-![Tela Principal](Econtact
-/screenshot.png)
+![Tela Principal](Econtact/screenshot.png)
 
 ## 📝 Licença
 

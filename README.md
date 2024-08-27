@@ -49,7 +49,7 @@ Econtact/
 
 ## 📸 Screenshots
 
-![Tela Principal](gerenciador-contatos-wforms/Econtact
+![Tela Principal](Econtact
 /screenshot.png)
 
 ## 📝 Licença

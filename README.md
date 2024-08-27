@@ -2,6 +2,9 @@
 
 Bem-vindo ao **Econtact**, um aplicativo desktop simples, mas poderoso, para gerenciar seus contatos utilizando SQLite como banco de dados. 
 
+![Tela Principal](Econtact/screenshot.png)
+
+
 ## ✨ Funcionalidades
 
 - **CRUD Completo**: Criação, Leitura, Atualização e Exclusão de contatos.
@@ -46,8 +49,6 @@ Econtact/
 ├── DALContacts.cs               # Classe de Acesso a Dados (DAL) para operações com o banco de dados.
 └── Econtact.cs                 # Form principal da aplicação.
 ```
-
-![Tela Principal](Econtact/screenshot.png)
 
 ## 📝 Licença
 
